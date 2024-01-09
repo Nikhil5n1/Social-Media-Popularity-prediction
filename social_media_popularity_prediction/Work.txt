@@ -1,0 +1,35 @@
+Social Media Popularity Prediction based on Multi modal Self Attention Mechanisms
+
+
+IEEE Access and Transaction on Social Network,Volume:10,January.13.2022
+
+Social Media Popularity Prediction, Ensemble Learning, Multi-Modality, Self-Attention,
+Image Caption
+
+
+Social_Media_Popularity_Prediction
+
+
+social_media_popularity_prediction
+
+
+Members
+---------
+
+photo_id	
+owner	
+gender	
+post_desc	
+score	
+created_dt	
+lat	
+lon	
+u_city	
+u_country
+Prediction
+
+
+varchar(300) NOT NULL,
+
+
+detect_popularity_prediction
